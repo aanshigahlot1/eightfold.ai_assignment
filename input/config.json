@@ -1,0 +1,1 @@
+{"fields": [{"path": "candidate_id"}, {"path": "full_name"}, {"path": "primary_email", "from": "emails[0]"}, {"path": "all_phones", "from": "phones"}, {"path": "skills"}], "include_confidence": true, "include_provenance": true, "on_missing": "null"}
